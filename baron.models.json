@@ -8,42 +8,6 @@
             "RU": { "title": "Карди Би" }
         }
     },
-    "Marion Cotillard": {
-        "height": 1.69, "weight": 57,
-        "sizes": "92-61-86", "nsfw": "true",
-        "shoe_size": 8, "country": "FR",
-        "birthday": "September 30, 1975",
-        "language": {
-            "RU": { "title": "Марион Котийяр" }
-        }
-    },
-    "Shakira": {
-        "height": 1.57, "weight": 53,
-        "sizes": "87-61-94", "nsfw": "true",
-        "shoe_size": 7, "country": "CO",
-        "birthday": "February 2, 1977",
-        "language": {
-            "RU": { "title": "Шакира" }
-        }
-    },
-    "Angelina Jolie": {
-        "height": 1.69, "weight": 54,
-        "sizes": "92-59-89", "nsfw": "true",
-        "shoe_size": 9, "country": "US",
-        "birthday": "June 4, 1975",
-        "language": {
-            "RU": { "title": "Анджелина Джоли" }
-        }
-    },
-    "Victoria Justice": {
-        "height": 1.66, "weight": 53,
-        "sizes": "87-61-89", "nsfw": "true",
-        "shoe_size": 7, "country": "US",
-        "birthday": "February 19, 1993",
-        "language": {
-            "RU": { "title": "Виктория Джастис" }
-        }
-    },
     "Fanny Neguesha": {
         "height": 1.73, "weight": 56,
         "sizes": "86-59-89", "nsfw": "true",
@@ -53,31 +17,13 @@
             "RU": { "title": "Фанни Негёша" }
         }
     },
-    "Beyoncé": {
-        "height": 1.7, "weight": 62,
-        "sizes": "89-66-99", "nsfw": "true",
-        "shoe_size": 8.5, "country": "US",
-        "birthday": "September 4, 1981",
+    "Shakira": {
+        "height": 1.57, "weight": 53,
+        "sizes": "87-61-94", "nsfw": "true",
+        "shoe_size": 7, "country": "CO",
+        "birthday": "February 2, 1977",
         "language": {
-            "RU": { "title": "Бейонсе" }
-        }
-    },
-    "Katy Perry": {
-        "height": 1.73, "weight": 61,
-        "sizes": "92-64-89", "nsfw": "true",
-        "shoe_size": 8, "country": "US",
-        "birthday": "October 25, 1984",
-        "language": {
-            "RU": { "title": "Кэти Перри" }
-        }
-    },
-    "Audrey Hepburn": {
-        "height": 1.7, "weight": 47,
-        "sizes": "76-51-86", "nsfw": "true",
-        "shoe_size": 10.5, "country": "EU",
-        "birthday": "May 4, 1929",
-        "language": {
-            "RU": { "title": "Одри Хепберн" }
+            "RU": { "title": "Шакира" }
         }
     },
     "Ivi Adamou": {
@@ -109,6 +55,24 @@
             "RU": { "title": "Роза Бертрам" }
         }
     },
+    "Marion Cotillard": {
+        "height": 1.69, "weight": 57,
+        "sizes": "92-61-86", "nsfw": "true",
+        "shoe_size": 8, "country": "FR",
+        "birthday": "September 30, 1975",
+        "language": {
+            "RU": { "title": "Марион Котийяр" }
+        }
+    },
+    "Angelina Jolie": {
+        "height": 1.69, "weight": 54,
+        "sizes": "92-59-89", "nsfw": "true",
+        "shoe_size": 9, "country": "US",
+        "birthday": "June 4, 1975",
+        "language": {
+            "RU": { "title": "Анджелина Джоли" }
+        }
+    },
     "Brigitte Bardot": {
         "height": 1.66, "weight": 57,
         "sizes": "89-63-89", "nsfw": "true",
@@ -116,6 +80,42 @@
         "birthday": "September 28, 1934",
         "language": {
             "RU": { "title": "Брижит Бардо" }
+        }
+    },
+    "Audrey Hepburn": {
+        "height": 1.7, "weight": 47,
+        "sizes": "76-51-86", "nsfw": "true",
+        "shoe_size": 10.5, "country": "EU",
+        "birthday": "May 4, 1929",
+        "language": {
+            "RU": { "title": "Одри Хепберн" }
+        }
+    },
+    "Victoria Justice": {
+        "height": 1.66, "weight": 53,
+        "sizes": "87-61-89", "nsfw": "true",
+        "shoe_size": 7, "country": "US",
+        "birthday": "February 19, 1993",
+        "language": {
+            "RU": { "title": "Виктория Джастис" }
+        }
+    },
+    "Beyoncé": {
+        "height": 1.7, "weight": 62,
+        "sizes": "89-66-99", "nsfw": "true",
+        "shoe_size": 8.5, "country": "US",
+        "birthday": "September 4, 1981",
+        "language": {
+            "RU": { "title": "Бейонсе" }
+        }
+    },
+    "Katy Perry": {
+        "height": 1.73, "weight": 61,
+        "sizes": "92-64-89", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "October 25, 1984",
+        "language": {
+            "RU": { "title": "Кэти Перри" }
         }
     },
     "Adriana Lima": {
