@@ -2,7 +2,7 @@
 
 A premium quality, aesthetic wallpapers for every moment of your life.
 
-"Elegance is the only beauty that never fades." - Audrey Hepburn//
+"Elegance is the only beauty that never fades." - Audrey Hepburn
 
 ![Collage](https://github.com/eurohouse/baron/blob/main/baron.collage.png?raw=true)
 
