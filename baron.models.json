@@ -519,8 +519,17 @@
             }
         }
     },
+    "Duck Test": {
+        "country": "UN", "insignia": "Duck",
+        "memoir": "The duck test is a frequently cited colloquial example of abductive reasoning. Its usual expression is: If it looks like a duck, swims like a duck, and quacks like a duck, then it probably is a duck. The test implies that a person can identify an unknown subject by observing that subject's habitual characteristics. It is sometimes used to counter abstruse arguments that something might not be what it appears to be.",
+        "language": {
+            "RU": {
+                "title": "Утиный тест",
+                "memoir": "Ути́ный тест, иногда дак-тест - тест на очевидность происходящего. Подразумевает, что сущность какого-либо явления можно идентифицировать по типичным внешним признакам. Суть теста выражается следующим утверждением: Если это выглядит как утка, плавает как утка и крякает как утка, то это, вероятно, и есть утка. Выражение является калькой с английского и распространено в США и Великобритании."
+            }
+        }
+    },
     "The musée du Louvre": {
-        "setting": "La Belle Époque",
         "country": "FR", "insignia": "Louvre",
         "maison": "https://www.louvre.fr",
         "memoir": "The Louvre, once a royal palace, bears witness to eight centuries of French history. From the time of its founding in 1793, the museum was intended to be universal. Its collections, among the finest in the world, span several thousand years and an area stretching from America to the confines of Asia. The Louvre began as a fortress with thick defensive walls, built in 1190 during the reign of Philippe Auguste. It became a royal residence in 1364 and was modified over the centuries according to changing styles and royal preferences. The Grande Galerie was built between 1595 and 1610, during the reign of Henri IV.",
