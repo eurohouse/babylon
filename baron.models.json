@@ -456,6 +456,16 @@
             }
         }
     },
+    "Blitzkrieg": {
+        "country": "DE", "insignia": "Balkenkreuz",
+        "memoir": "Das Wesen der modernen Blitzkrieg-Strategie liegt im autonomen Vorgehen großer Panzereinheiten (Panzergruppen) mit aktiver Unterstützung durch die Luftfahrt, die eine erhebliche Luftüberlegenheit gewährleisten soll (aus diesem Grund begannen fast alle militärischen Blitzkrieg-Kampagnen mit der Unterdrückung der feindlichen Luftfahrt und Luftabwehr). Panzerverbände dringen tief in den Rücken des Gegners ein. Treffen solche Verbände auf ihrem Weg auf schwer befestigte Stellungen des Gegners, kämpfen sie nicht um deren Verteidigung, sondern umzingeln diese und schneiden ihnen die Kommunikation mit den übrigen feindlichen Truppen ab. Ziel des Durchbruchs ist die Einnahme oder Zerstörung von Kommandozentralen und die Störung der militärischen Logistik des Gegners. Befestigte Gebiete, Verteidigungsknoten und die Hauptstreitkräfte des Feindes verlieren ohne Kontrolle und Versorgung schnell ihre Kampffähigkeit. Ein weiterer wichtiger Bestandteil des Blitzkriegs ist die Einkesselung großer feindlicher Verbände in sogenannten Kesseln, um sie dann aufzubrechen und Stück für Stück zu zerstören.",
+        "language": {
+            "RU": {
+                "title": "Блицкриг",
+                "memoir": "Суть современной стратегии блицкрига заключается в автономных действиях крупных танковых соединений (танковых групп) при активной поддержке авиации, которая должна обеспечить значительное превосходство в воздухе (именно поэтому почти все военные кампании-«блицкриги» начинались с подавления авиации и ПВО противника). Танковые подразделения прорываются в тылы противника на большую глубину, если на пути таких групп попадаются сильно укреплённые позиции врага, то в бой за них не вступают, а окружают их, перерезая им связь с остальными войсками противника. Целью прорыва является захват или уничтожение центров управления и разрушение военной логистики противника. Укрепрайоны, узлы обороны и основные силы противника, оказавшиеся без управления и снабжения, быстро утрачивают боеспособность. Также важной составной частью блицкрига является окружение больших соединений вражеских сил в «котлы», дробление и уничтожение их по частям."
+            }
+        }
+    },
     "Operation Barbarossa": {
         "country": "DE", "insignia": "IronCross",
         "memoir": "Am 22. Juni 1941 befahl Hitler die Invasion der Sowjetunion, die den Codenamen Operation Barbarossa trug. Obwohl die sowjetischen Panzer und Flugzeuge den Deutschen zahlenmäßig weit überlegen waren, war die russische Flugtechnik weitgehend veraltet, und die Wirkung der Überraschungsinvasion half den Deutschen, bis Mitte Juli bis auf 320 Kilometer an Moskau heranzukommen. Streitigkeiten zwischen Hitler und seinen Kommandeuren verzögerten den nächsten deutschen Vormarsch bis Oktober, als er durch eine sowjetische Gegenoffensive und den Beginn des harten Winterwetters gestoppt wurde.",
@@ -463,6 +473,16 @@
             "RU": {
                 "title": "Операция Барбаросса",
                 "memoir": "22 июня 1941 года Гитлер приказал вторгнуться в Советский Союз под кодовым названием «Операция Барбаросса». Хотя советские танки и самолеты значительно превосходили немцев по численности, российская авиационная техника в значительной степени устарела, а последствия внезапного вторжения помогли немцам к середине июля приблизиться к Москве на расстояние 200 миль. Споры между Гитлером и его командирами отложили следующее немецкое наступление до октября, когда оно было остановлено советским контрнаступлением и наступлением суровой зимней погоды."
+            }
+        }
+    },
+    "Generalplan Ost": {
+        "country": "DE", "insignia": "Swastika",
+        "memoir": "Idee und Name des Generalplans Ost entstanden höchstwahrscheinlich im Jahr 1940. Der Initiator war Himmler, die Namensfindung könnte in einer seiner Dienststellen erfolgt sein, am wahrscheinlichsten im Reichssicherheitshauptamt (RSHA), vielleicht aber auch in der Planungsabteilung des Reichskommissars für die Festigung des deutschen Volkes. Zeitlich und räumlich waren zwei Phasen der Entwicklung zu beobachten. Der „Schließplan“ betraf die bereits annektierten Ostgebiete und wurde zur Umsetzung übergeben. Der „langfristige Plan“ war für den gesamten Ostraum vorgesehen. Welche SS-Abteilungen entsprechend ihrer Zuständigkeiten an der Ausarbeitung einzelner Teile des Plans beteiligt waren, konnte von Historikern nie genau ermittelt werden. Es gelang ihnen jedoch, mehreren Spuren nachzugehen, von denen eine, vielleicht sogar die wichtigste, zur III. Direktion (Sicherheitsdienst (SD)/Deutschland) des Reichssicherheitshauptamtes führte. Eine weitere Spur führt zur Abteilung I (Umsiedlung und Staatsangehörigkeit) und Abteilung VI (Planung) des Generalstabsamtes des Reichskommissars für die Festigung des deutschen Volkes. Es wird außerdem davon ausgegangen, dass an den Arbeiten zum Generalplan auch das SS-Rasse- und Siedlungshauptamt beteiligt war. Die wichtigste Rolle spielte dabei allerdings das Kaiserliche Sicherheitshauptamt.",
+        "language": {
+            "RU": {
+                "title": "Генеральный план Ост",
+                "memoir": "Идея и название Генерального плана Ост возникли, скорее всего, в 1940 году. Инициатором выступил Гиммлер, название могли придумать в одной из его служб, скорее всего в Главном управлении имперской безопасности (RSHA), а может быть, и в управлении планирования рейхскомиссара по вопросам консолидации германского народа. В том, что касается времени и пространства, речь шла о двух фазах разработки. «Ближний план» затрагивал уже присоединенные восточные территории и был отдан на реализацию. «Дальний план» предназначался для всего восточного пространства. Какие управления СС — в соответствии с их компетенциями — участвовали в разработке отдельных частей плана, историки так и не смогли точно установить. Однако им удалось проследить несколько следов, один из которых, может быть, даже самый важный, ведёт в III управление (Служба безопасности (СД)/Германия) Главного имперского управления безопасности. Другой след ведет в управление I (переселение и народность) и в управление VI (планирование) Главного штабного управления рейхскомиссара по вопросам консолидации германского народа. Предполагается также, что в работе над Генеральным планом участвовало и Главное управление СС по делам расы и поселений. Но самую важную роль при этом играло Главное управление имперской безопасности."
             }
         }
     },
