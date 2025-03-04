@@ -64,15 +64,6 @@
             "RU": { "title": "Роза Бертрам" }
         }
     },
-    "Angelina Jolie": {
-        "height": 1.69, "weight": 54,
-        "sizes": "92-59-89", "nsfw": "true",
-        "shoe_size": 9, "country": "US",
-        "birthday": "June 4, 1975",
-        "language": {
-            "RU": { "title": "Анджелина Джоли" }
-        }
-    },
     "Brigitte Bardot": {
         "height": 1.66, "weight": 57,
         "sizes": "89-63-89", "nsfw": "true",
@@ -82,13 +73,13 @@
             "RU": { "title": "Брижит Бардо" }
         }
     },
-    "Audrey Hepburn": {
-        "height": 1.7, "weight": 47,
-        "sizes": "76-51-86", "nsfw": "true",
-        "shoe_size": 10.5, "country": "EU",
-        "birthday": "May 4, 1929",
+    "Katy Perry": {
+        "height": 1.73, "weight": 61,
+        "sizes": "92-64-89", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "October 25, 1984",
         "language": {
-            "RU": { "title": "Одри Хепберн" }
+            "RU": { "title": "Кэти Перри" }
         }
     },
     "Victoria Justice": {
@@ -109,13 +100,31 @@
             "RU": { "title": "Бейонсе" }
         }
     },
-    "Katy Perry": {
-        "height": 1.73, "weight": 61,
-        "sizes": "92-64-89", "nsfw": "true",
-        "shoe_size": 8, "country": "US",
-        "birthday": "October 25, 1984",
+    "Shakira": {
+        "height": 1.57, "weight": 53,
+        "sizes": "87-61-94", "nsfw": "true",
+        "shoe_size": 7, "country": "CO",
+        "birthday": "February 2, 1977",
         "language": {
-            "RU": { "title": "Кэти Перри" }
+            "RU": { "title": "Шакира" }
+        }
+    },
+    "Angelina Jolie": {
+        "height": 1.69, "weight": 54,
+        "sizes": "92-59-89", "nsfw": "true",
+        "shoe_size": 9, "country": "US",
+        "birthday": "June 4, 1975",
+        "language": {
+            "RU": { "title": "Анджелина Джоли" }
+        }
+    },
+    "Audrey Hepburn": {
+        "height": 1.7, "weight": 47,
+        "sizes": "76-51-86", "nsfw": "true",
+        "shoe_size": 10.5, "country": "EU",
+        "birthday": "May 4, 1929",
+        "language": {
+            "RU": { "title": "Одри Хепберн" }
         }
     },
     "Adriana Lima": {
@@ -125,15 +134,6 @@
         "birthday": "June 12, 1981",
         "language": {
             "RU": { "title": "Адриана Лима" }
-        }
-    },
-    "Shakira": {
-        "height": 1.57, "weight": 53,
-        "sizes": "87-61-94", "nsfw": "true",
-        "shoe_size": 7, "country": "CO",
-        "birthday": "February 2, 1977",
-        "language": {
-            "RU": { "title": "Шакира" }
         }
     },
     "Marion Cotillard": {
