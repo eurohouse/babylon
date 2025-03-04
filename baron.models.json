@@ -35,15 +35,6 @@
             "RU": { "title": "Фанни Негёша" }
         }
     },
-    "Shakira": {
-        "height": 1.57, "weight": 53,
-        "sizes": "87-61-94", "nsfw": "true",
-        "shoe_size": 7, "country": "CO",
-        "birthday": "February 2, 1977",
-        "language": {
-            "RU": { "title": "Шакира" }
-        }
-    },
     "Ivi Adamou": {
         "height": 1.75, "weight": 68,
         "sizes": "84-64-89", "nsfw": "true",
@@ -71,15 +62,6 @@
         "birthday": "October 26, 1994",
         "language": {
             "RU": { "title": "Роза Бертрам" }
-        }
-    },
-    "Marion Cotillard": {
-        "height": 1.69, "weight": 57,
-        "sizes": "92-61-86", "nsfw": "true",
-        "shoe_size": 8, "country": "FR",
-        "birthday": "September 30, 1975",
-        "language": {
-            "RU": { "title": "Марион Котийяр" }
         }
     },
     "Angelina Jolie": {
@@ -143,6 +125,24 @@
         "birthday": "June 12, 1981",
         "language": {
             "RU": { "title": "Адриана Лима" }
+        }
+    },
+    "Shakira": {
+        "height": 1.57, "weight": 53,
+        "sizes": "87-61-94", "nsfw": "true",
+        "shoe_size": 7, "country": "CO",
+        "birthday": "February 2, 1977",
+        "language": {
+            "RU": { "title": "Шакира" }
+        }
+    },
+    "Marion Cotillard": {
+        "height": 1.69, "weight": 57,
+        "sizes": "92-61-86", "nsfw": "true",
+        "shoe_size": 8, "country": "FR",
+        "birthday": "September 30, 1975",
+        "language": {
+            "RU": { "title": "Марион Котийяр" }
         }
     },
     "Palace Ballroom": {
